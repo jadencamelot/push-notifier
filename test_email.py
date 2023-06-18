@@ -8,7 +8,7 @@ def send_test_email():
     username = 'user'  # Replace with your SMTP server username
     password = 'password123'  # Replace with your SMTP server password
     smtp_server = '127.0.0.1'  # Replace with your SMTP server address
-    smtp_port = 25  # Replace with your SMTP server port
+    smtp_port = 8025  # Replace with your SMTP server port
 
     message = EmailMessage()
     message['Subject'] = 'Test Email'
