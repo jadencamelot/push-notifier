@@ -1,0 +1,3 @@
+aiosmtpd
+pillow
+requests
